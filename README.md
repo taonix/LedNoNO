@@ -1,3 +1,3 @@
 # LedNoNO
 
-Project offline
+Project offline. Will be delete soon.
